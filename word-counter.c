@@ -1,7 +1,6 @@
 /*
 Counts the letter uses in user input
 Hayashida, Zac
-ICS 212 Assignment 11
 10/3/17
 */
 
